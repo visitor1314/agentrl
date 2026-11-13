@@ -1,0 +1,18 @@
+# 数据和检索索引
+/data/
+/eval/data/
+
+# 运行输出和模型检查点
+/outputs/
+/checkpoints/
+
+# Python 缓存和安装产物
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# 本地环境配置
+.env
+.env.*
+!.env.example
